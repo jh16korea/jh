@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jh16korea.com/sitemap.xml
